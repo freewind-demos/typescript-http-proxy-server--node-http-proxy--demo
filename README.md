@@ -9,3 +9,5 @@ npm run server
 
 npm run demo
 ```
+
+Visit <http://localhost:28378>
